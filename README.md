@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">👋 Olá, sou Daniela Rangel Rocca!</h1>
 
-<!--
-**daniirocca/daniirocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Bem-vindo ao meu perfil do GitHub. Aqui, você encontrará uma amostra dos meus projetos, contribuições para a comunidade e um pouco sobre mim.
+</p>
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente, estou aprendendo C#, Integrações, Automatização com RPA e DevOps.
+- 💼 Trabalho como Desenvolvedora.
+- 📫 Como me alcançar: mande uma mensagem para mim no  meu perfil do linkedin 🔗 https://www.linkedin.com/in/daniirocca/.
+
+## Contato
+
+- 📧 [Seu Endereço de E-mail](mailto:seu-email@example.com)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daniirocca&show_icons=true&theme=dark)
+
+Obrigado por visitar meu perfil! 😄
