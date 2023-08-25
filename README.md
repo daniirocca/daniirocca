@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou Daniela Rangel Rocca!</h1>
+<h1 align="center">👋 Olá, me chamo Daniela Rocca!</h1>
 
 <p align="center">
   Bem-vindo ao meu perfil do GitHub. Aqui, você encontrará uma amostra dos meus projetos, contribuições para a comunidade e um pouco sobre mim.
