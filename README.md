@@ -10,10 +10,6 @@
 - 💼 Trabalho como Desenvolvedora.
 - 📫 Como me alcançar: mande uma mensagem para mim no  meu perfil do linkedin 🔗 https://www.linkedin.com/in/daniirocca/.
 
-## Contato
-
-- 📧 [Seu Endereço de E-mail](mailto:seu-email@example.com)
-
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daniirocca&show_icons=true&theme=dark)
