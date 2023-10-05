@@ -10,6 +10,8 @@
 - 💼 Trabalho como Desenvolvedora.
 - 📫 Como me alcançar: mande uma mensagem para mim no  meu perfil do linkedin 🔗 https://www.linkedin.com/in/daniirocca/.
 
+##Confira o meu blog e mantenha-se atualizado sobre os estudos em programação, frameworks e muito mais! Você pode encontrá-lo em: https://daniirocca.github.io/blog/
+
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daniirocca&show_icons=true&theme=dark)
