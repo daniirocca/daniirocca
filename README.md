@@ -7,7 +7,7 @@
 ## Sobre Mim
 
 - 🌱 Atualmente, estou aprendendo C#, Integrações, Automatização com RPA e DevOps.
-- 💼 Trabalho como Desenvolvedora.
+- 💼 Trabalho como Desenvolvedora backend e Analista de desenvolvimento.
 - 📫 Como me alcançar: mande uma mensagem para mim no  meu perfil do linkedin 🔗 https://www.linkedin.com/in/daniirocca/.
 
 ## Blog
